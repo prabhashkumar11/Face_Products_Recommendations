@@ -2,9 +2,13 @@
 div.css-1kyxreq.etr89bj2 {
     padding-left: 00px;
 }
+
+/* For adding background color in block in streamlit */
 div.block-container.css-18e3th9.egzxvld2 {
     background-color: rgb(232, 228, 223);
 }
+
+/* for styling image in streamlit */
 
 div.css-1v0mbdj.etr89bj1  img {
     border-radius:25px;
