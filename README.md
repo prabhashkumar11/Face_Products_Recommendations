@@ -8,9 +8,9 @@ Clone the GitHub repository into your local device by running the following comm
 
 cd folder-you-want-to-download-code-in
 
-git clone https://github.com/prabhashkumar11/Engage_22_Project.git
+git clone https://github.com/prabhashkumar11/Face_Products_Recommendations.git
 
-cd Engage_22_Project
+cd Face_Products_Recommendations
 
 ```
 - Now that you're in the project folder, open terminal to download the necessaries libraries:
